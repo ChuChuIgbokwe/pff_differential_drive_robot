@@ -24,6 +24,7 @@ spawn a URDF robot -->
        args="-urdf -model diff_wheeled_robot -param robot_description"/>
 
     <node name="square_mode" pkg="pff_diff_drive" type="square_mode.py" launch-prefix="xterm -e">
+        <param name="length" value="2" />
      <remap from="cmd_vel_pub" to="/cmd_vel"></remap>
  </node>
 </launch>

@@ -20,9 +20,11 @@ example paused:=true -->
 
     <!-- Run a python script to the send a service call to gazebo_ros to
 spawn a URDF robot -->
- <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" respawn="false" output="screen"
+  <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" respawn="false" output="screen"
        args="-urdf -model diff_wheeled_robot -param robot_description"/>
 
-    <node name="circle_mode" pkg="pff_diff_drive" type="circle_mode.py" launch-prefix="xterm -e">
-     <remap from="cmd_vel_pub" to="/cmd_vel"></remap>
+  <node name="circle_mode" pkg="pff_diff_drive" type="circle_mode.py" launch-prefix="xterm -e">
+      <param name="diameter" value="2" />
+      <remap from="cmd_vel_pub" to="/cmd_vel"></remap>
+  </node>
 </launch>

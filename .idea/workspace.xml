@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494835fc-2e45-4395-8d81-04b00f80873b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_teleop.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/keyboard_teleop.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/robot_pff.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/robot_pff_physics.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/view_demo.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/view_mobile_robot.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/view_pan_tilt_urdf.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/launch/view_test_robot.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/circle_mode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/square_mode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urdf/diff_drive_robot.xacro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urdf/linorobot.urdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urdf/robot1.urdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urdf/robot1_physics.urdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urdf/wheel.urdf.xacro" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.xml" afterPath="$PROJECT_DIR$/package.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/circle_mode.py" afterPath="$PROJECT_DIR$/src/circle_mode.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/square_mode.py" afterPath="$PROJECT_DIR$/src/square_mode.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,65 +17,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pff_diff_drive$square_mode.coverage" NAME="square_mode Coverage Results" MODIFIED="1495841848347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="robot_pff_physics.launch" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="diff_drive_robot_rviz.launch" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view_test_robot.launch" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/launch/view_test_robot.launch">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view_mobile_robot.launch" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urdf.rviz" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/urdf.rviz">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="306">
+                <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -97,10 +36,54 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="diff_drive_robot_gazebo_circle_mode.launch" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="square_mode.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/square_mode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding>
+                <element signature="e#106#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="diff_drive_robot_gazebo_square_mode.launch" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="circle_mode.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/circle_mode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="17" column="81" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+              <folding>
+                <element signature="e#106#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="diff_drive_robot.urdf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urdf/diff_drive_robot.urdf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5400">
+            <state relative-caret-position="423">
               <caret line="300" column="48" lean-forward="false" selection-start-line="300" selection-start-column="48" selection-end-line="300" selection-end-column="48" />
               <folding />
             </state>
@@ -139,12 +122,13 @@
         <option value="$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch" />
         <option value="$PROJECT_DIR$/launch/keyboard_teleop.launch" />
         <option value="$PROJECT_DIR$/src/move_in_a_circle.py" />
-        <option value="$PROJECT_DIR$/src/circle_mode.py" />
-        <option value="$PROJECT_DIR$/src/square_mode.py" />
         <option value="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_teleop.launch" />
-        <option value="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" />
-        <option value="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" />
         <option value="$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch" />
+        <option value="$PROJECT_DIR$/src/circle_mode.py" />
+        <option value="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" />
+        <option value="$PROJECT_DIR$/src/square_mode.py" />
+        <option value="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -268,7 +252,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.square_mode">
+    <configuration default="false" name="square_mode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pff_diff_drive" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/square_mode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,6 +421,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.square_mode" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.square_mode" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -434,14 +445,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1509121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15422885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -491,30 +503,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="104" lean-forward="false" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="76" lean-forward="false" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch" />
     <entry file="file://$PROJECT_DIR$/src/circle_mode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -525,30 +516,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/pan_tilt.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/robot1_physics.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/urdf/pan_tilt.urdf" />
+    <entry file="file://$PROJECT_DIR$/urdf/robot1_physics.urdf" />
+    <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch" />
     <entry file="file://$PROJECT_DIR$/urdf/wheel.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
@@ -573,30 +543,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="104" lean-forward="false" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="76" lean-forward="false" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch" />
     <entry file="file://$PROJECT_DIR$/src/circle_mode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -607,30 +556,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/pan_tilt.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/robot1_physics.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/urdf/pan_tilt.urdf" />
+    <entry file="file://$PROJECT_DIR$/urdf/robot1_physics.urdf" />
+    <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch" />
     <entry file="file://$PROJECT_DIR$/urdf/wheel.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
@@ -665,70 +593,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="104" lean-forward="false" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="76" lean-forward="false" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/diff_drive_ros_wiki.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/linorobot.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2457">
-          <caret line="190" column="10" lean-forward="false" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/robot1.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/pan_tilt.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/robot1_physics.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch" />
+    <entry file="file://$PROJECT_DIR$/urdf/diff_drive_ros_wiki.urdf" />
+    <entry file="file://$PROJECT_DIR$/urdf/linorobot.urdf" />
+    <entry file="file://$PROJECT_DIR$/urdf/robot1.urdf" />
+    <entry file="file://$PROJECT_DIR$/urdf/pan_tilt.urdf" />
+    <entry file="file://$PROJECT_DIR$/urdf/robot1_physics.urdf" />
     <entry file="file://$PROJECT_DIR$/urdf/wheel.urdf.xacro">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
@@ -745,50 +617,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/circle_mode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="12" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="e#106#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/square_mode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="83" lean-forward="false" selection-start-line="46" selection-start-column="83" selection-end-line="46" selection-end-column="83" />
-          <folding>
-            <element signature="e#106#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/keyboard_teleop.launch" />
     <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_teleop.launch">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -797,82 +627,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch/robot_pff.launch">
+    <entry file="file://$PROJECT_DIR$/launch/robot_pff.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_pan_tilt_urdf.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_demo.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_test_robot.launch" />
+    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch" />
+    <entry file="file://$PROJECT_DIR$/urdf.rviz">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_pan_tilt_urdf.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_demo.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urdf/diff_drive_robot.urdf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="300" column="48" lean-forward="false" selection-start-line="300" selection-start-column="48" selection-end-line="300" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch/robot_pff_physics.launch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_test_robot.launch">
+    <entry file="file://$PROJECT_DIR$/src/circle_mode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="288">
+          <caret line="17" column="81" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+          <folding>
+            <element signature="e#106#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urdf/diff_drive_robot.urdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="300" column="48" lean-forward="false" selection-start-line="300" selection-start-column="48" selection-end-line="300" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch/view_mobile_robot.launch">
+    <entry file="file://$PROJECT_DIR$/src/square_mode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="1080">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="e#106#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urdf.rviz">
+    <entry file="file://$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="468">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -880,8 +695,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />

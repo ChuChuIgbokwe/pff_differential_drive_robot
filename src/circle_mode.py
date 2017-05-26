@@ -14,8 +14,8 @@ def circle():
     m = rospy.get_param('~diameter', default=2)
     rate = rospy.Rate(10)
     while not rospy.is_shutdown():
-        cmd_vel.linear.x = 1.0
-        cmd_vel.angular.z = cmd_vel.linear.x/(m/2) #v=w*r
+        cmd_vel.linear.x = 1.0 #linear velocity = 1m/s
+        cmd_vel.angular.z = cmd_vel.linear.x/(m/2) #v=w*r;w=v/r; angular velocity = linear velocity/radius
         pub.publish(cmd_vel)
 
         rospy.loginfo("diameter = {}".format(m))
