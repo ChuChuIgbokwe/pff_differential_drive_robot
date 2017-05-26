@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494835fc-2e45-4395-8d81-04b00f80873b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_circle_mode.launch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_gazebo_square_mode.launch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch" afterPath="$PROJECT_DIR$/launch/diff_drive_robot_rviz.launch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/circle_mode.py" afterPath="$PROJECT_DIR$/src/circle_mode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/square_mode.py" afterPath="$PROJECT_DIR$/src/square_mode.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <first_editor relative-caret-position="414">
+                <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -695,8 +689,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
