@@ -1,0 +1,25 @@
+<launch>
+ <arg name="model" />
+ <arg name="gui" default="False" />
+ <param name="robot_description" textfile="$(find pff_diff_drive)/urdf/diff_drive_robot.urdf" />
+ <param name="use_gui" value="$(arg gui)"/>
+ <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" ></node>
+ <node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+ <node name="rviz" pkg="rviz" type="rviz" args="-d $(find pff_diff_drive)/urdf.rviz" />
+</launch>
+
+
+<!--<launch>-->
+	<!--<arg name="model" />-->
+	<!--&lt;!&ndash; Parsing xacro and setting robot_description parameter &ndash;&gt;-->
+	<!--<param name="robot_description" textfile="$(find pff_diff_drive)/urdf/robot1.urdf" />-->
+	<!--&lt;!&ndash; Setting gui parameter to true for display joint slider &ndash;&gt;-->
+	<!--<param name="use_gui" value="true"/>-->
+	<!--&lt;!&ndash; Starting Joint state publisher node which will publish the joint values &ndash;&gt;-->
+	<!--<node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />-->
+	<!--&lt;!&ndash; Starting robot state publish which will publish tf &ndash;&gt;-->
+	<!--<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />-->
+	<!--&lt;!&ndash; Launch visualization in rviz &ndash;&gt;-->
+	<!--<node name="rviz" pkg="rviz" type="rviz" args="-d $(find pff_diff_drive)/urdf.rviz" required="true" />-->
+<!--</launch>-->
+
